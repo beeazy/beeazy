@@ -1,4 +1,5 @@
 ### Hi am eazy 👋
+[![wakatime](https://wakatime.com/badge/user/7fbc5a3c-d96d-4abf-b59f-2945fcfc37c0.svg)](https://wakatime.com/@7fbc5a3c-d96d-4abf-b59f-2945fcfc37c0)
 
 <!--
 **beeazy/beeazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
