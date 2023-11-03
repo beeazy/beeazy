@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...  Kotlin Multi platform and Compose Multiplatform
 - 🤔 I’m looking for a community
 - 📫 How to reach me: [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://beeazy.github.io/)
-- 👌🏿
-[![wakatime](https://wakatime.com/badge/user/7fbc5a3c-d96d-4abf-b59f-2945fcfc37c0.svg)](https://wakatime.com/@7fbc5a3c-d96d-4abf-b59f-2945fcfc37c0)
+- 👌🏿 [![wakatime](https://wakatime.com/badge/user/7fbc5a3c-d96d-4abf-b59f-2945fcfc37c0.svg)](https://wakatime.com/@7fbc5a3c-d96d-4abf-b59f-2945fcfc37c0)
+- 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
