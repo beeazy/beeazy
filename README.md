@@ -1,4 +1,4 @@
-### Hi am  ✨ _eazy_ ✨ 👋 I love Kotlin. 
+### Hi I am  ✨ _eazy_ ✨ 👋 I love Kotlin. 
 - 🔭 I’m currently working on ... Tappa Events app.
 - 🌱 I’m currently learning ...  Kotlin Multi platform and Compose Multiplatform
 - 🤔 I’m looking for a community
