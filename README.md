@@ -1,5 +1,5 @@
 ### Hi I am  ✨ _eazy_ ✨ 👋 I love Kotlin. 
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://beeazy.github.io/)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://beeazy.github.io/)\
   [![wakatime](https://wakatime.com/badge/user/7fbc5a3c-d96d-4abf-b59f-2945fcfc37c0.svg)](https://wakatime.com/@7fbc5a3c-d96d-4abf-b59f-2945fcfc37c0)
 - 🔭 I’m currently working on ... Tappa Events app.
 - 🌱 I’m currently learning ...  Kotlin Multi platform and Compose Multiplatform
