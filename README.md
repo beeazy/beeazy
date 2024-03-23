@@ -1,5 +1,4 @@
-# Evans Mutwiri [![wakatime](https://wakatime.com/badge/user/7fbc5a3c-d96d-4abf-b59f-2945fcfc37c0.svg)](https://wakatime.com/@7fbc5a3c-d96d-4abf-b59f-2945fcfc37c0)[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://beeazy.github.io/)
-
+# Evans Mutwiri [![wakatime](https://wakatime.com/badge/user/7fbc5a3c-d96d-4abf-b59f-2945fcfc37c0.svg)](https://wakatime.com/@7fbc5a3c-d96d-4abf-b59f-2945fcfc37c0)
 
 ## 🧢 Professional Summary
 Passionate Android developer with a strong foundation in Kotlin and Java. Experienced in developing high-performance and user-friendly mobile applications using modern Android architectures and best practices. Skilled in Jetpack Compose, React Native, and Kotlin Multiplatform. Proficient in Agile methodologies, Git version control, and Test-Driven Development. Committed to delivering quality solutions and continuously expanding my skill set.
@@ -44,6 +43,8 @@ Relevant Coursework: Data Analysis, Economics Modeling, Statistics
 
 ## 🦺 Projects
 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://beeazy.github.io/)
+
 - **Tappa Events (Android - Kotlin and Jetpack Compose):**, enabling users to discover and engage with curated events in Nairobi.
 - **Automo (Kotlin Multiplatform):** A cross-platform app for browsing and bidding on vehicle listings from dealers.
 - **GKuze App (React Native):**
@@ -53,9 +54,15 @@ Relevant Coursework: Data Analysis, Economics Modeling, Statistics
 Team Sports, Community Involvement, Music & Events, Art & Craft
 
 ## 📫 Contact
+Github: evansmutwiri
+
+
 Email: mutwirievansm@gmail.com
+
+
 Phone: +254 797 737344
-GitHub: evansmutwiri
+
+
 LinkedIn: @EvansMutwiri
 
 ## ⚡ Quick updates
