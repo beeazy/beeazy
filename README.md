@@ -3,15 +3,15 @@
   [![wakatime](https://wakatime.com/badge/user/7fbc5a3c-d96d-4abf-b59f-2945fcfc37c0.svg)](https://wakatime.com/@7fbc5a3c-d96d-4abf-b59f-2945fcfc37c0)
 
 ## 🧢 Professional Summary
-Passionate Android Developer with expertise in Kotlin and Java, committed to delivering high-quality mobile applications. Proficient in agile methodologies, version control, and Test-Driven Development. Demonstrated ability to collaborate effectively with cross-functional teams and continuously learn and adapt to new technologies.
+Passionate Android developer with a strong foundation in Kotlin and Java. Experienced in developing high-performance and user-friendly mobile applications using modern Android architectures and best practices. Skilled in Jetpack Compose, React Native, and Kotlin Multiplatform. Proficient in Agile methodologies, Git version control, and Test-Driven Development. Committed to delivering quality solutions and continuously expanding my skill set.
 
 ## 🎓 Education
-**Bachelor of Economics**
-Technical University of Kenya (Sep 2015 - Dec 2019)
+**Bachelor of Economics** | Technical University of Kenya (Sept 2015 - Dec 2019)
+Relevant Coursework: Data Analysis, Economics Modeling, Statistics
 
 ## 👨🏽‍💻 Professional Experience
 
-### Mobile Software Developer - APA Insurance Limited (June 2022 - Present)
+### Mobile Software Developer | APA Insurance Limited (Jun 2022 - Present)
 
 - Launched a highly successful mobile app, achieving 10K+ downloads and generating Ksh 35M+ in revenue.
 - Implemented in-app payment functionality, enhancing user experience and revenue streams.
@@ -19,16 +19,24 @@ Technical University of Kenya (Sep 2015 - Dec 2019)
 - Developed a feature management strategy for continuous deployment and rollout, ensuring seamless updates.
 - Collaborated closely with cross-functional teams, utilizing Scrum methodologies for efficient project delivery.
 
-### Mobile Developer - Kweli Capital (Feb 2022 - June 2022)
+### Mobile Developer | Kweli Capital (Feb 2022 - Jun 2022)
 - Implemented features for searching, filtering, sharing, and receiving push notifications, improving user experience.
 - Conducted thorough testing and debugging to ensure a stable and reliable application.
 - Worked closely with designers and product owners to translate requirements into functional features.
 
+### Software Development Trainee | Moringa School (Jun 2021 - Nov 2021)
+- Completed an intensive training program in software development, focusing on mobile app development using Kotlin and Java.
+- Gained hands-on experience in Agile methodologies, Git version control, and Test-Driven Development (TDD).
+- Developed several Android applications as part of the curriculum, showcasing proficiency in Android Studio and various libraries/frameworks.
+
 ## 🛠 Technical Skills
 
-**Programming Languages:** Kotlin, Java, JavaScript (React Native)
-**Frameworks & Libraries:** Android Jetpack (Compose, ViewModel, Room, etc.), React Native (Expo)
-**Tools & Practices:** Git, Scrum, Test-Driven Development, Firebase, SQLite, RESTful APIs
+*Programming Languages*: Kotlin, Java, JavaScript
+*Mobile Development*: Android (Jetpack Compose, XML), React Native (Expo)
+*Cross-Platform*: Kotlin Multiplatform
+*Frameworks/Libraries*: Jetpack (ViewModel, LiveData, Room), Retrofit, Dagger, RxJava
+*Tools*: Android Studio, Git, Firebase, Postman, Figma
+*Methodologies*: Agile (Scrum), Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD)
 
 ## 📚 Certifications & Training
 
