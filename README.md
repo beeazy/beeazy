@@ -1,6 +1,5 @@
-# Evans Mutwiri
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://beeazy.github.io/)\
-  [![wakatime](https://wakatime.com/badge/user/7fbc5a3c-d96d-4abf-b59f-2945fcfc37c0.svg)](https://wakatime.com/@7fbc5a3c-d96d-4abf-b59f-2945fcfc37c0)
+# Evans Mutwiri [![wakatime](https://wakatime.com/badge/user/7fbc5a3c-d96d-4abf-b59f-2945fcfc37c0.svg)](https://wakatime.com/@7fbc5a3c-d96d-4abf-b59f-2945fcfc37c0)[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://beeazy.github.io/)
+
 
 ## 🧢 Professional Summary
 Passionate Android developer with a strong foundation in Kotlin and Java. Experienced in developing high-performance and user-friendly mobile applications using modern Android architectures and best practices. Skilled in Jetpack Compose, React Native, and Kotlin Multiplatform. Proficient in Agile methodologies, Git version control, and Test-Driven Development. Committed to delivering quality solutions and continuously expanding my skill set.
@@ -31,18 +30,16 @@ Relevant Coursework: Data Analysis, Economics Modeling, Statistics
 
 ## 🛠 Technical Skills
 
-*Programming Languages*: Kotlin, Java, JavaScript
-*Mobile Development*: Android (Jetpack Compose, XML), React Native (Expo)
-*Cross-Platform*: Kotlin Multiplatform
-*Frameworks/Libraries*: Jetpack (ViewModel, LiveData, Room), Retrofit, Dagger, RxJava
-*Tools*: Android Studio, Git, Firebase, Postman, Figma
-*Methodologies*: Agile (Scrum), Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD)
+- **Programming Languages**: Kotlin, Java, JavaScript
+- **Mobile Development**: Android (Jetpack Compose, XML), React Native (Expo)
+- **Frameworks/Libraries**: Jetpack Compose, Kotlin Multiplatform
+- **Tools & Practices**: Git, Scrum, Test-Driven Development, Continuous Integration/Deployment
 
 ## 📚 Certifications & Training
 
 - **Scrum Fundamental Certified** - ScrumStudy (March 2023)
 - **App Store Optimization (ASO)** - Play Store (January 2023)
-- **Google Africa Developer Scholarship 2022: Android Development**
+- **Google Africa Developer Scholarship** - Android Development (2022 - 2023)
 - **Software Development** - Moringa School (June 2021 - November 2021)
 
 ## 🦺 Projects
