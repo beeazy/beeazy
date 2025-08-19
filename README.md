@@ -13,7 +13,10 @@ LinkedIn: @EvansMutwiri
 
 ## ⚡ Quick updates
 
-- 🔭 I’m currently working on ... Tappa Events app.
+- 🔭 I’m currently working on ...
+[Tikiti Events app](tikiti.africa)
+[Beeazy Personal Website](beeazy.pages.dev)
+[Afya Os]
 - 🌱 I’m currently learning ...  Kotlin Multi platform and Compose Multiplatform
 - 🤔 I’m looking for a community
 
