@@ -14,8 +14,8 @@ LinkedIn: @EvansMutwiri
 ## ⚡ Quick updates
 
 - 🔭 I’m currently working on ...
-- [Tikiti Events app](tikiti.africa)
-- [Beeazy Personal Website](beeazy.pages.dev)
+- [Tikiti Events app](https://tikiti.africa/)
+- [Beeazy Personal Website](https://beeazy.pages.dev/)
 - [Afya Os](https://healthcare-system-c8ox.vercel.app/)
 - 🌱 I’m currently learning ...  Kotlin Multi platform and Compose Multiplatform
 - 🤔 I’m looking for a community
